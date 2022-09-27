@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Siddhants18124
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Web Dev Projects
 - 📫 How to reach me siddhantofficial18@gmail.com
 
 <!---
